@@ -1,0 +1,32 @@
+@echo off
+color  	
+echo 	hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyyyyyyhy
+echo 	hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyyssoo+syyh
+echo 	hhhhhhhhhhhhhhhhhhhyyyyhhhhhhhhhhhhhyyssyyyyyyh
+echo 	hhhhhhhhhhhhyysso++/+++osssyyyyhhhyyyyyyyhyyyyy
+echo 	hhhhhhhhhhyo/:-------::///++oosyyyyyyyyyyhyyyyy
+echo 	hhhhhhhys+:-.....--:::::////++ossssyyyyyyyhyyyy
+echo 	hhhhys+:-...---:::/:+///++++++oossssyyyyyyyyyyy
+echo 	hhhy+-....-:::///://////o+++ooooooosssyyyyyyyyy
+echo 	hys/.`.-----://///::+///+/+ooooooossssyyyyyyyyy
+echo 	ys:.`.-::--://-::+::+/+//+oo++oo+oosssyyyyyyyyy
+echo 	y/....:://-://:////+o++++o++++ooooosssyyyyysyyy
+echo 	o:..-::://:::::/++oohyyosoooo+ooooosossyyyssyyy
+echo 	+-..-/::://////++ydmmmmmhysoo+ooooosoosyyysssyy
+echo 	/---:/://:///+sdmmmmmNNNNNmyso+++++ooossyssssss
+echo 	/:::////://+//hNNNhmNNNNdNNhs++oo++ssoossooosss
+echo 	/::://+/////+ohNNmmdNNNMmmdysoooo++oo++o+oooooo
+echo 	+/::/+oo+///:/+hmmNdmmNNmdmyo++++++oo+oooso++++
+echo 	++///+++////::+sohhdNNddhysooo+++//+++ooso+////
+echo 	//++/+oo+/////::/o+hdNy/sso++++/++++/++os+/::::
+echo 	::/++++++//::---://+sms::+++//+///++++oso/:----
+echo 	:::++++++//:::--/.:/yN+:--://:///++/+oo/:------
+echo 	----:++//////:-:.--:sm::.--:://:/++oos+:--.....
+echo 	------://////::-.--:om/:--::/++oooos++:........
+echo 	.......--::::::.----om/::://+oooooo/...........
+echo 	..........------:-::+h+//++osysoo+:....``````..
+echo 	`````````....---:://+soossosso+-..`````````````
+echo 	``````````````....-/sNy//:---..````````````````
+echo 	```````````````````:hM+````````````````````````
+echo 	```````````````````:hM/````````````````````````
+pause
